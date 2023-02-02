@@ -1,6 +1,6 @@
 <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://github.com/Jvcto">João Victor 😃️</a>
+    Opa Tudo bem? Eu sou o 
+    <a href="https://www.instagram.com/_jvct_/">João Victor </a>
   </h1> 
 <img src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif" />
 ###### Os bilhões são feitos de centavos.⏱️
