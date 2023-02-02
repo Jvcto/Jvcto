@@ -7,7 +7,7 @@
 
 ## ⚡ Tecnologias
 
-Estas são algumas das tecnologias e ferramentas com as quais estou estudando:
+Estas são algumas das tecnologias e ferramentas com as quais estou estudando.
 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
