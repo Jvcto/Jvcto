@@ -1,2 +1,1 @@
-### Os bilhões são feitos de centavos.
-Felippi Crevellari
+### Os bilhões são feitos de centavos.⏱️
